@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: vrpoapp
-          image: siddeo10/vprofileapp:V1
+          image: siddeo10/vrpofileapp:V1
           ports:
             - name: vproapp-port
               containerPort: 8080
